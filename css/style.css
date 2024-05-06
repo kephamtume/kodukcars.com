@@ -575,7 +575,7 @@ nav ul li a{
 .service-desc{
     width: 80%;
     position: absolute;
-    bottom: 40%;
+    bottom: 0%;
     left: 50%;
     opacity: 0;
     transform: translateX(-50%);
@@ -618,10 +618,10 @@ hr{
     margin: 5px auto;
 }
 .single-service:hover .service-desc{
-    bottom: 25% important;
+    bottom: 20% important;
 }
 .service-desc p{
-    font-size: 14px;
+    font-size: 12px;
 }
 .single-service .logo{
     width: 80px;
